@@ -12,3 +12,7 @@ and "IMDB Scrap Movies and save to csv" scraps IMDB popular Movies and saves it 
 Site for TV shows :  http://www.imdb.com/chart/tvmeter
 
 Site for Movies :    http://www.imdb.com/chart/moviemeter
+
+## Next Work:
+
+#### Working On: Scrap more details like : Summary , MetaScore , Gross , BoxOffice ,Runtime ,Language ,Adult Or Not . ...etc of more than 500 movies
